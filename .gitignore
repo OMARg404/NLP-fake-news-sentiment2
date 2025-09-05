@@ -39,3 +39,4 @@ Thumbs.db
 *.pt
 *.ckpt
 *.model
+backend/vocab.txt
