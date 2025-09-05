@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env/
+*.venv/
+*.idea/
+*.vscode/
+
+# Backend
+backend/tf-env/
+backend/models/
+backend/*.json
+backend/*.safetensors
+backend/*.zip
+
+# Frontend
+frontend/frontend/node_modules/
+frontend/frontend/dist/
+
+# Data
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Large files
+*.csv
+*.h5
+*.pt
+*.ckpt
+*.model
