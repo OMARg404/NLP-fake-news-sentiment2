@@ -8,7 +8,7 @@ You need to download the models separately and place them in the correct paths:
 * Traditional ML models (Naive Bayes, TF-IDF, LSTM) → `backend/models/` folder
 * Transformers model files → `backend/` folder (same folder as `main.py`)
 
-[Google Drive - All Models](https://drive.google.com/file/d/1wcAJ8sDf36KbvGuZx5jwjEaPi6lJXnC/view?usp=sharing)
+[Google Drive - All Models](https://drive.google.com/file/d/1wcAJ8sDf36KbvGuZx5jwjEaPi6lZJXnC/view)
 
 ---
 
