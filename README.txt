@@ -74,5 +74,5 @@ The frontend will be available at `http://localhost:5173` (or port 3000). It com
 
 * `notebooks/` → Jupyter notebooks for experimentation
 * `data/` → Dataset files
-* `FakeNews_Sentiment_Report.docx` → Project report
+* `FakeNews_Sentiment_Report.pdf` → Project report
 * `.gitignore` → Git ignore configuration
